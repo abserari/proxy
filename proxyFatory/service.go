@@ -1,4 +1,4 @@
-package main
+package proxyFatory
 
 import (
 	"time"
@@ -21,5 +21,5 @@ type ServiceConfig struct {
 }
 
 type ResourceService struct {
-	
+
 }
